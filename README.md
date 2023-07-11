@@ -1,3 +1,19 @@
+Projeto com as seguintes tecnologias:
+-Prisma
+-Vercel
+-Nextauth
+-Stripe
+-Supabase.
+[O site]
+(https://fsw-trips-eta.vercel.app/?vercelToolbarCode=Vh0oNexEnmyJa5Y).
+
+Se resume a um site de reservas em hoteis, projeto todo feito em 1 semana, todas as imagens e lugares são ficticios, o site está funcional até o momento.
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
